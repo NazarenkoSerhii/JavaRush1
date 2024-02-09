@@ -1,6 +1,6 @@
 package TestStatic;
 
-import ua.javarush.task.pro.task11.task1101.SolarSystem;
+
 
 public class PlanetMain {
     public static void main(String[] args) {

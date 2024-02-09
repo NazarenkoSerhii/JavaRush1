@@ -1,6 +1,6 @@
 package ModTwoNasledovanie.PolymorphismMenuPrimer;
 
-import ua.javarush.task.pro.task12.task1217.Solution;
+
 
 import java.util.Scanner;
 

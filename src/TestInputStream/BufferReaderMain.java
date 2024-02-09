@@ -1,6 +1,6 @@
 package TestInputStream;
 
-import ua.javarush.task.pro.task12.task1217.Solution;
+
 
 import java.io.*;
 import java.util.Scanner;
